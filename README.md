@@ -1,4 +1,6 @@
-# Ex PayPal (Data Scientist) | MS @ Purdue (BAIM)
+
+# Rishabh Sharma Portfolio
+## Ex PayPal (Data Scientist) | MS @ Purdue (BAIM)
 
 
 # PayPal 
@@ -23,7 +25,7 @@
 
 ## Data Analyst - Product
 #### July 2017 – October 2019
-*Partnered closely with SME’s for defining scope of GDPR (EU LAW) and conducted Impact Analysis of regulatory tool
+* Partnered closely with SME’s for defining scope of GDPR (EU LAW) and conducted Impact Analysis of regulatory tool
 * Developed Risk Score using Regression and Rules-based weights found via decision tree; to identify privacy breach at data-table level. Partnered with multiple stakeholders ranging from business, engineering, legal and operations teams
 * Recognized by and Demoed to EVP of PayPal regulatory product, first in industry privacy analytics
 * Spearheaded Friction Assessment Analysis w.r.t to compliance onboarding for PayPal launch across India
@@ -36,6 +38,20 @@
 * Executed data governance and fallback strategy for tracking data quality issues
 
 
+
+
+# Academic Projects at Purdue
+## Red Roof Anomaly Detection
+#### January 2022 – April 2022
+
+* Investigated anomaly detection for pricing decisions within 48 hrs. window using iForest, clustering and rule-based models.
+* Developed alert mechanism to notify revenue managers, helping adjust prices and resource allocation.
+
+## Customer Churn Prediction
+#### January 2022 – April 2022
+
+* Devised various classification model (Logistic Regression, Decision Tree) on SAS EM to predict the customer churn rate with AUC of 0.8 on Kaggle leaderboard.
+* Enhanced learning on working on imbalanced datasets and applying transformations to overcome skewed distribution challenges
 
 
 
