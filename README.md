@@ -1,9 +1,7 @@
 
-
-# Ex PayPal (Data Scientist) | MS @ Purdue (BAIM) 
+# Welcome to My Journey!
+## Ex PayPal (Data Scientist) | MS @ Purdue (BAIM) 
 #### [Linkedin](https://www.linkedin.com/in/rishabh3995/)
-#### [Email] (sharm451@purdue.edu) 
-#### [Phone] (765-430-8963)
 * 4.5 years of experience Fin Tech and Payments Domain responsible for delivering data driven strategies
 * Expertise in Product, Fraud, Risk and Credit based strategy, Analytics and Reporting
 * Proficient in setting up production scale data pipelines, quantitative storytelling, strategy formulation and execution with SQL, Python, Tableau, Big Data and Machine Learning
