@@ -1,7 +1,9 @@
 
 # Rishabh Sharma Portfolio
 ## Ex PayPal (Data Scientist) | MS @ Purdue (BAIM)
-
+* 4.5 years of experience Fin Tech and Payments Domain responsible for delivering data driven strategies
+* Expertise in Product, Fraud, Risk and Credit based strategy, Analytics and Reporting
+* Proficient in setting up production scale data pipelines, quantitative storytelling, strategy formulation and execution with SQL, Python, Tableau, Big Data and Machine Learning
 
 # PayPal 
 ## Data Scientist – Fraud Risk
@@ -54,5 +56,8 @@
 * Enhanced learning on working on imbalanced datasets and applying transformations to overcome skewed distribution challenges
 
 
-
+# LEADERSHIP ACTIVITIES, AFFILIATIONS, HONORS
+* Spot Award: Awarded by Chief Risk Officer of company for portfolio insights and recession strategy
+* Change Champion Award: Awarded change champion in Annual PayPal Awards two years in a row by VP
+* Dean's List @ Purdue 2021
 
