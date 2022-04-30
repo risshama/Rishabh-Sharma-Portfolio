@@ -58,5 +58,5 @@
 # Leadership and Awards
 * Spot Award: Awarded by Chief Risk Officer of company for portfolio insights and recession strategy
 * Change Champion Award: Awarded change champion in Annual PayPal Awards two years in a row by VP
-* Dean's List @ Purdue 2021
+* Dean's List @ Purdue 2021 
 
