@@ -1,5 +1,3 @@
-# rishabh_portfolio
-
 # Ken_Portfolio
 Example data science portfolio
 
