@@ -1,18 +1,23 @@
 # Rishabh Sharma Portfolio
 Rishabh Sharma Portfolio
 
-# [Project 1: Rishabh Sharma Portfolio](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# [PayPal Data Scientist – Fraud Risk]
+## [February 2021 – July 2021]
+• Formulated fraud mitigation strategies for $2 Billion US portfolio of PayPal Credit and Venmo
+• Led Venmo CC portfolio insights to build 25+ KPI’s for exhaustive monitoring of portfolio health
+• Developed Repayments failure prediction strategy used to prevent over limit balances and improve customer experience
+• Formulated an acquisition strategy using phone, email change and browser language and typing speed for determining accounts showing fraudulent behavior. Implemented A/B test for rule optimization. Expected loss savings: $1 million
+• Devised a Third Party Fraud mitigation strategies at Acquisition and back book. Expected Loss Savings: $7 million
+• Partnered with Product and Engineering teams to solve problems and identify trends and opportunities
 
-![](/images/positions_by_state.png)
 
 
-# [Project 2: Rishabh Sharma Portfolio](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+# [PayPal Data Scientist – Fraud Risk]
+## [November 2019 – January 2021]
+• Accomplished crisis playbook, a Covid -19 recession strategy for reducing early defaulters for PAD. Led to a record low loss rate of 0.8% as compared to historic 1.5% for a buy now pay later product in UK, Germany and Australia
+• Increased credit transactions by $ 320M by devising an upsell strategy of short-term loan to credit card
+• Derived new financial and behavioral segmentation for engagement analysis and loss estimations
+• Constructed a loss forecasting model for predicting losses over 6 months, till it’s maturation. Partnered with multiple stakeholders on write-off policy definition, leading to consistency across globe for product Profit &Loss
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
- 
+
+
