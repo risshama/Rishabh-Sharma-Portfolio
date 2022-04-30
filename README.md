@@ -1,6 +1,5 @@
 
-# Rishabh Sharma Portfolio
-## Ex PayPal (Data Scientist) | MS @ Purdue (BAIM)
+# Ex PayPal (Data Scientist) | MS @ Purdue (BAIM) 
 * 4.5 years of experience Fin Tech and Payments Domain responsible for delivering data driven strategies
 * Expertise in Product, Fraud, Risk and Credit based strategy, Analytics and Reporting
 * Proficient in setting up production scale data pipelines, quantitative storytelling, strategy formulation and execution with SQL, Python, Tableau, Big Data and Machine Learning
