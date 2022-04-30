@@ -10,7 +10,8 @@
 
 # Professional Experience 
 ## PayPal
-## Data Scientist – Fraud Risk  #### February 2021 – July 2021
+## Data Scientist – Fraud Risk  
+#### February 2021 – July 2021
 * Formulated fraud mitigation strategies for $2 Billion US portfolio of PayPal Credit and Venmo
 * Led Venmo CC portfolio insights to build 25+ KPI’s for exhaustive monitoring of portfolio health
 * Developed Repayments failure prediction strategy used to prevent over limit balances and improve customer experience
