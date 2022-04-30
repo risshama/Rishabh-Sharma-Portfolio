@@ -1,5 +1,5 @@
 # Rishabh Sharma 
-### Welcome to my journey! I am an Ex PayPal (Data Scientist) and currently pursuing MS @ Purdue (BAIM) 
+### Welcome to my journey! I am an Ex PayPal - Data Scientist and currently pursuing MS @ Purdue (BAIM) 
 #### [Linkedin](https://www.linkedin.com/in/rishabh3995/)
 * 4.5 years of experience Fin Tech and Payments Domain responsible for delivering data driven strategies
 * Expertise in Product, Fraud, Risk and Credit based strategy, Analytics and Reporting
